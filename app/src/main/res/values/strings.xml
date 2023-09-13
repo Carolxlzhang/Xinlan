@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Xinlan</string>
+    <string name="app_name">Xinlan\'s Androidlab</string>
+    <String name="Hello_message">Hello world!</String>
+    <string name="hello_message">Hello world!</string>
 </resources>
