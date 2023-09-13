@@ -2,4 +2,5 @@
     <string name="app_name">Xinlan\'s Androidlab</string>
     <String name="Hello_message">Hello world!</String>
     <string name="hello_message">Hello world!</string>
+    <string name="button_message" translatable="false">I\'m a button</string>
 </resources>
